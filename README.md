@@ -1,4 +1,4 @@
-# C\# Baseball
+# C# Baseball
 This repository contains the code for running a C#, text based version of baseball. This was done to learn and understand how C# works compared to other coding languages. This is my first project in the language.
 
 # Playing the Game
