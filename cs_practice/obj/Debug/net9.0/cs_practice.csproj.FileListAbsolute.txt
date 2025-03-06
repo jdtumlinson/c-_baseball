@@ -1,0 +1,16 @@
+/Users/jdtumlinson/Documents/codePractice/cs_practice/bin/Debug/net9.0/cs_practice
+/Users/jdtumlinson/Documents/codePractice/cs_practice/bin/Debug/net9.0/cs_practice.deps.json
+/Users/jdtumlinson/Documents/codePractice/cs_practice/bin/Debug/net9.0/cs_practice.runtimeconfig.json
+/Users/jdtumlinson/Documents/codePractice/cs_practice/bin/Debug/net9.0/cs_practice.dll
+/Users/jdtumlinson/Documents/codePractice/cs_practice/bin/Debug/net9.0/cs_practice.pdb
+/Users/jdtumlinson/Documents/codePractice/cs_practice/obj/Debug/net9.0/cs_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jdtumlinson/Documents/codePractice/cs_practice/obj/Debug/net9.0/cs_practice.AssemblyInfoInputs.cache
+/Users/jdtumlinson/Documents/codePractice/cs_practice/obj/Debug/net9.0/cs_practice.AssemblyInfo.cs
+/Users/jdtumlinson/Documents/codePractice/cs_practice/obj/Debug/net9.0/cs_practice.csproj.CoreCompileInputs.cache
+/Users/jdtumlinson/Documents/codePractice/cs_practice/obj/Debug/net9.0/cs_practice.dll
+/Users/jdtumlinson/Documents/codePractice/cs_practice/obj/Debug/net9.0/refint/cs_practice.dll
+/Users/jdtumlinson/Documents/codePractice/cs_practice/obj/Debug/net9.0/cs_practice.pdb
+/Users/jdtumlinson/Documents/codePractice/cs_practice/obj/Debug/net9.0/cs_practice.genruntimeconfig.cache
+/Users/jdtumlinson/Documents/codePractice/cs_practice/obj/Debug/net9.0/ref/cs_practice.dll
+/Users/jdtumlinson/Documents/codePractice/cs_practice/bin/Debug/net9.0/Configs/pitchOdds.json
+/Users/jdtumlinson/Documents/codePractice/cs_practice/bin/Debug/net9.0/Configs/hitOdds.json

@@ -1,0 +1,29 @@
+[
+    {
+        "name": "fastBall",
+        "strike": 50,
+        "ball": 70,
+        "fly": 75,
+        "first": 85,
+        "second": 92,
+        "third": 97
+    },
+    {
+        "name": "curveball",
+        "strike": 50,
+        "ball": 75,
+        "fly": 81,
+        "first": 86,
+        "second": 94,
+        "third": 97
+    },
+    {
+        "name": "knuckleBall",
+        "strike": 70,
+        "ball": 92,
+        "fly": 94,
+        "first": 96,
+        "second": 97,
+        "third": 98
+    }
+]
